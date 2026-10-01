@@ -1,0 +1,16 @@
+PORTFOLIO LOGO ASSETS — v7
+
+The following seven transparent PNG assets were cropped from the user-provided logo sheet and are stored locally so they do not depend on external CDN loading:
+- assets/logos/java.png
+- assets/logos/vscode.png
+- assets/logos/nmap.png
+- assets/logos/css3.png
+- assets/logos/gmail.png
+- assets/logos/github.png
+- assets/logos/linkedin.png
+
+All seven are transparent-background PNGs. The original uploaded composite was used as the source artwork.
+
+Other technology/certification logos in the portfolio may still load from their existing external sources when the site is online.
+
+Certificate logos: Cisco logo uses Simple Icons CDN (brand mark), IBM logo uses the bundled IBM 8-bar asset. Cisco and IBM brand usage should follow their respective brand guidelines.
